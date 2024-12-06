@@ -6,6 +6,3 @@ print(main())
 import os
 
 print(os.getcwd())
-
-git config --glpbal user.name "elena.agafonova"
-git config --glpbal user.mail "helloimlena@yandex.ru"
